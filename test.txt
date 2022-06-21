@@ -1,2 +1,4 @@
+Hi
+
 This is simple test file
 hihi
